@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AppMonster/static/css/main.28b3065d.css",
+    "main.js": "/AppMonster/static/js/main.de2ee980.js",
+    "static/js/787.15949e1c.chunk.js": "/AppMonster/static/js/787.15949e1c.chunk.js",
+    "index.html": "/AppMonster/index.html",
+    "main.28b3065d.css.map": "/AppMonster/static/css/main.28b3065d.css.map",
+    "main.de2ee980.js.map": "/AppMonster/static/js/main.de2ee980.js.map",
+    "787.15949e1c.chunk.js.map": "/AppMonster/static/js/787.15949e1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b3065d.css",
+    "static/js/main.de2ee980.js"
+  ]
+}
